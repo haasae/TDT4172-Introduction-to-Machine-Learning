@@ -1,6 +1,6 @@
 # TDT4172-Introduction-to-Machine-Learning
 
-Repo containing projects for the course TDT4172 - Introduction to Machine Learning, taken during Fall 2024
+Repo containing projects for the course TDT4172 - Introduction to Machine Learning, taken during Fall 2025
 
 ## [Mission 1: Outsmarting Skynet](https://github.com/haasae/TDT4172-Introduction-to-Machine-Learning/tree/main/Assignment1)
 
